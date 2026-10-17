@@ -11,13 +11,16 @@
   <br /><br />
 
 
-  <img align="left" width="320" src="https://github.com/user-attachments/assets/e61bcf47-42ae-4866-a5c6-d79b48e26bd3" style="margin-right: 15px;" />
+  <img align="left" width="345" src="https://github.com/user-attachments/assets/e61bcf47-42ae-4866-a5c6-d79b48e26bd3" style="margin-right: 15px;" />
   
   $\color{#a8cce4}{\textsf{Camryn Rapid IRL}}$
   
   $\color{#a8cce4}{\textsf{Doubles}}$ $\color{#bf242f}{\textsf{DNI}}$ $\color{#a8cce4}{\textsf{, I hide freely .}}$
   
   $\color{#a8cce4}{\textsf{Offtab most of the time .}}$
+  
+  $\color{#a8cce4}{\textsf{rustcam}}$ $\color{#bf242f}{\textsf{DNI}}$
+
     
   <details>
     <summary>BYI</summary>  
