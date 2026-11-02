@@ -33,7 +33,7 @@
   </details>
     <br />
   
-  [ata](https://orangedeltarune.atabook.org)  ⸝⸝ ⧽ ⸝⸝  [straw](https://0rangedeltarune.straw.page)
+  [ata](https://orangedeltarune.atabook.org)  ⸝⸝ ⧽ ⸝⸝  [straw](https://0rangedeltarune.straw.page)  ⸝⸝ ⧽ ⸝⸝  [guns.lol](https://guns.lol/camrynrapidd)
 
   <br /><br />
   <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=uv946d21u20jnx52mzzjf7qlq&cover_image=true&theme=novatorem&show_offline=true&background_color=056ab1&interchange=false&profanity=false&hide_remaster=false&bar_color=c4dada&bar_color_cover=false" alt="spotify-github-profile" /></a>
