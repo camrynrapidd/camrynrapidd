@@ -15,7 +15,7 @@
   
   $\color{#a8cce4}{\textsf{Camryn Rapid and Mr. Puzzles IRL}}$
   
-  $\color{#a8cce4}{\textsf{Doubles}}$ $\color{#bf242f}{\textsf{DNI}}$ $\color{#a8cce4}{\textsf{, I hide freely .}}$
+  $\color{#a8cce4}{\textsf{Doubles IWVEC or}}$ $\color{#bf242f}{\textsf{DNI}}$ $\color{#a8cce4}{\textsf{, I hide freely .}}$
   
   $\color{#a8cce4}{\textsf{Offtab most of the time .}}$
   
