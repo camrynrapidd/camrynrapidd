@@ -28,7 +28,8 @@
     <p>$\color{#8cbcda}{\textsf{if i don't respond , please don't take it personally .}}$</p>
     <p>$\color{#569cca}{\textsf{not really doing mentally well , just a heads up , iayor .}}$</p>
     <p>$\color{#3371b7}{\textsf{mostly nonsharing with my yumes .}}$</p>
-    <p>$\color{#569cca}{\textsf{more info}}$ $\color{#bf242f}{\textsf{WILL}}$ $\color{#569cca}{\textsf{be provided on straw soon .}}$</p>
+    <p>$\color{#569cca}{\textsf{i will most likely unfriend you after a while if we dont talk .}}$</p>
+
 
   </details>
     <br />
